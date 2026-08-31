@@ -27,9 +27,15 @@ from common import (
 
 
 def fetch_latest_close(symbol):
-    """Return (date_str, close_price) for the most recent trading day, or None."""
+    """Return (date_str, close_price) for the most recent trading day, or None.
+
+    yfinance's period-based history() can include a same-day placeholder row
+    with a NaN Close for the current (not-yet-traded) session near the JST/UTC
+    day boundary. Drop unclosed/NaN rows so we always return a real close.
+    """
     ticker = yf.Ticker(symbol)
     hist = ticker.history(period="5d", interval="1d", auto_adjust=False)
+    hist = hist[hist["Close"].notna()]
     if hist.empty:
         return None
     last = hist.iloc[-1]
