@@ -1,31 +1,131 @@
 {
-  "last_run_utc": "2026-08-31T07:34:54.616507Z",
-  "updated_codes": [
-    "7550",
-    "3197",
-    "3563",
-    "2702",
-    "7616",
-    "3397",
-    "9861",
-    "7581",
-    "9936",
-    "2695",
-    "7421",
-    "3399",
-    "3561",
-    "9279",
-    "3543",
-    "3087",
-    "3395",
-    "2705",
-    "3317",
-    "3097",
-    "2753",
-    "3091",
-    "7562",
-    "7412",
-    "5891"
-  ],
-  "errors": []
+  "last_run_utc": "2026-08-31T22:05:46.776222Z",
+  "updated_codes": [],
+  "errors": [
+    {
+      "code": "7550",
+      "name": "ゼンショーホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3197",
+      "name": "すかいらーくホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3563",
+      "name": "FOOD & LIFE COMPANIES",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "2702",
+      "name": "日本マクドナルドホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "7616",
+      "name": "コロワイド",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3397",
+      "name": "トリドールホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "9861",
+      "name": "吉野家ホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "7581",
+      "name": "サイゼリヤ",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "9936",
+      "name": "王将フードサービス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "2695",
+      "name": "くら寿司",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "7421",
+      "name": "カッパ・クリエイト",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3399",
+      "name": "丸千代山岡家",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3561",
+      "name": "力の源ホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "9279",
+      "name": "ギフトホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3543",
+      "name": "コメダホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3087",
+      "name": "ドトール・日レスホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3395",
+      "name": "サンマルクホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "2705",
+      "name": "大戸屋ホールディングス",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3317",
+      "name": "フライングガーデン",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3097",
+      "name": "物語コーポレーション",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "2753",
+      "name": "あみやき亭",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "3091",
+      "name": "ブロンコビリー",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "7562",
+      "name": "安楽亭",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "7412",
+      "name": "アトム",
+      "error": "cannot convert float NaN to integer"
+    },
+    {
+      "code": "5891",
+      "name": "SAKIGAKEホールディングス",
+      "error": "cannot convert float NaN to integer"
+    }
+  ]
 }
