@@ -62,5 +62,21 @@
     "url": "",
     "note": "自動取得値の変化を検知して自動記録。自社株買い・処分・分割・IR訂正等の可能性があるため、根拠となる適時開示を確認して note を更新してください。",
     "source": "auto"
+  },
+  {
+    "date": "2026-09-03",
+    "category": "月次売上",
+    "title": "国内店舗月次営業速報（2026年８月）のお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120260903531096.pdf",
+    "note": "",
+    "source": "tdnet_auto"
+  },
+  {
+    "date": "2026-09-03",
+    "category": "その他適時開示",
+    "title": "2026年10月期８月度 直営店売上速報についてのお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120260903530940.pdf",
+    "note": "",
+    "source": "tdnet_auto"
   }
 ]
