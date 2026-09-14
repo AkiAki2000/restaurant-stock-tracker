@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "date": "2026-09-11",
+    "document_name": "第２四半期（中間期）決算短信〔日本基準〕(非連結)",
+    "fiscal_year_end": "2027-01-31",
+    "net_sales": 22868000000,
+    "operating_income": 2487000000,
+    "ordinary_income": 2538000000,
+    "net_income": null,
+    "eps": 90.45,
+    "unit": "JPY",
+    "url": "https://www.release.tdnet.info/inbs/081220260911534857.zip",
+    "source": "tdnet_xbrl"
+  }
+]
