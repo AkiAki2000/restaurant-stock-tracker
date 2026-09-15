@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "date": "2026-09-14",
+    "document_name": "第３四半期決算短信〔日本基準〕（連結）",
+    "fiscal_year_end": "2026-10-31",
+    "net_sales": 32270000000,
+    "operating_income": 3718000000,
+    "ordinary_income": 3719000000,
+    "net_income": 2457000000,
+    "eps": 61.32,
+    "unit": "JPY",
+    "url": "https://www.release.tdnet.info/inbs/081220260911535133.zip",
+    "source": "tdnet_xbrl"
+  }
+]
