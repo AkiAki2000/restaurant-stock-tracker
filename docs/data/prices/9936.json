@@ -1358,5 +1358,12 @@
     "shares_outstanding": 52531261,
     "market_cap": 153969125991,
     "source": "daily_fetch"
+  },
+  {
+    "date": "2026-09-17",
+    "close": 2940.0,
+    "shares_outstanding": 52531261,
+    "market_cap": 154441907340,
+    "source": "daily_fetch"
   }
 ]
