@@ -1445,9 +1445,9 @@
   },
   {
     "date": "2026-10-08",
-    "close": 300.0,
+    "close": 297.0,
     "shares_outstanding": 193136265,
-    "market_cap": 57940879500,
+    "market_cap": 57361470705,
     "source": "daily_fetch"
   }
 ]
