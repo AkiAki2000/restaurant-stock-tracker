@@ -11,5 +11,18 @@
     "unit": "JPY",
     "url": "https://www.release.tdnet.info/inbs/081220260707589069.zip",
     "source": "tdnet_xbrl"
+  },
+  {
+    "date": "2026-10-08",
+    "document_name": "第2四半期（中間期）決算短信〔日本基準〕(連結)",
+    "fiscal_year_end": "2027-02-28",
+    "net_sales": 121494000000,
+    "operating_income": 5782000000,
+    "ordinary_income": 6222000000,
+    "net_income": 3810000000,
+    "eps": 58.96,
+    "unit": "JPY",
+    "url": "https://www.release.tdnet.info/inbs/081220261008547781.zip",
+    "source": "tdnet_xbrl"
   }
 ]
