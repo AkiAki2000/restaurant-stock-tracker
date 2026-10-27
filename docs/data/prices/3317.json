@@ -1512,5 +1512,12 @@
     "shares_outstanding": 2890258,
     "market_cap": 4358509064,
     "source": "daily_fetch"
+  },
+  {
+    "date": "2026-10-26",
+    "close": 1508.0,
+    "shares_outstanding": 2890258,
+    "market_cap": 4358509064,
+    "source": "daily_fetch"
   }
 ]
