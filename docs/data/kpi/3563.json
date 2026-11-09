@@ -11,5 +11,18 @@
     "unit": "JPY",
     "url": "https://www.release.tdnet.info/inbs/081220260806513307.zip",
     "source": "tdnet_xbrl"
+  },
+  {
+    "date": "2026-11-06",
+    "document_name": "決算短信〔ＩＦＲＳ〕(連結)",
+    "fiscal_year_end": "2026-09-30",
+    "net_sales": null,
+    "operating_income": null,
+    "ordinary_income": null,
+    "net_income": null,
+    "eps": null,
+    "unit": "JPY",
+    "url": "https://www.release.tdnet.info/inbs/081220261106566923.zip",
+    "source": "tdnet_xbrl"
   }
 ]
