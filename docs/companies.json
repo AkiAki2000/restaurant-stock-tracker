@@ -49,9 +49,9 @@
     "name": "トリドールホールディングス",
     "brands": "丸亀製麺",
     "yahoo_symbol": "3397.T",
-    "shares_outstanding": 87931157,
+    "shares_outstanding": 87978825,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-16"
+    "shares_outstanding_updated_at": "2026-11-16"
   },
   {
     "code": "9861",
@@ -76,9 +76,9 @@
     "name": "王将フードサービス",
     "brands": "餃子の王将",
     "yahoo_symbol": "9936.T",
-    "shares_outstanding": 52531261,
+    "shares_outstanding": 52563432,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-14"
+    "shares_outstanding_updated_at": "2026-11-16"
   },
   {
     "code": "2695",
