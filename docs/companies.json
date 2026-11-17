@@ -40,9 +40,9 @@
     "name": "コロワイド",
     "brands": "牛角、かっぱ寿司、大戸屋",
     "yahoo_symbol": "7616.T",
-    "shares_outstanding": 106305791,
+    "shares_outstanding": 106349821,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-14"
+    "shares_outstanding_updated_at": "2026-11-17"
   },
   {
     "code": "3397",
@@ -139,9 +139,9 @@
     "name": "ドトール・日レスホールディングス",
     "brands": "ドトール、星乃珈琲店",
     "yahoo_symbol": "3087.T",
-    "shares_outstanding": 42074412,
+    "shares_outstanding": 41388212,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-10-15"
+    "shares_outstanding_updated_at": "2026-11-17"
   },
   {
     "code": "3395",
@@ -211,9 +211,9 @@
     "name": "アトム",
     "brands": "ステーキ宮、かごの屋",
     "yahoo_symbol": "7412.T",
-    "shares_outstanding": 193136265,
+    "shares_outstanding": 193147267,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-14"
+    "shares_outstanding_updated_at": "2026-11-17"
   },
   {
     "code": "5891",
