@@ -174,5 +174,21 @@
     "url": "",
     "note": "自動取得値の変化を検知して自動記録。自社株買い・処分・分割・IR訂正等の可能性があるため、根拠となる適時開示を確認して note を更新してください。",
     "source": "auto"
+  },
+  {
+    "date": "2026-11-19",
+    "category": "M&A・提携",
+    "title": "Gates社との合弁事業解消によるゲイツ・ユニッタ・アジア株式会社の完全子会社化と持分法適用関連会社の異動および特別利益の計上見込みに関するお知らせ",
+    "url": "https://www.release.tdnet.info/inbs/140120261118582765.pdf",
+    "note": "",
+    "source": "tdnet_auto"
+  },
+  {
+    "date": "2026-11-19",
+    "category": "決算",
+    "title": "2027年3月期第2四半期　決算説明会",
+    "url": "https://www.release.tdnet.info/inbs/140120261119583732.pdf",
+    "note": "",
+    "source": "tdnet_auto"
   }
 ]
