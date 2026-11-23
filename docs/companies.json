@@ -94,9 +94,9 @@
     "name": "カッパ・クリエイト",
     "brands": "かっぱ寿司",
     "yahoo_symbol": "7421.T",
-    "shares_outstanding": 49352326,
+    "shares_outstanding": 49355826,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-19"
+    "shares_outstanding_updated_at": "2026-11-23"
   },
   {
     "code": "3399",
@@ -112,9 +112,9 @@
     "name": "力の源ホールディングス",
     "brands": "一風堂",
     "yahoo_symbol": "3561.T",
-    "shares_outstanding": 30105742,
+    "shares_outstanding": 30142288,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-14"
+    "shares_outstanding_updated_at": "2026-11-23"
   },
   {
     "code": "9279",
@@ -157,9 +157,9 @@
     "name": "大戸屋ホールディングス",
     "brands": "大戸屋ごはん処",
     "yahoo_symbol": "2705.T",
-    "shares_outstanding": 7258293,
+    "shares_outstanding": 7262693,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-14"
+    "shares_outstanding_updated_at": "2026-11-23"
   },
   {
     "code": "3317",
