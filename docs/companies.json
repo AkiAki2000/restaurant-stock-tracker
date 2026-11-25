@@ -148,9 +148,9 @@
     "name": "サンマルクホールディングス",
     "brands": "サンマルクカフェ、鎌倉パスタ",
     "yahoo_symbol": "3395.T",
-    "shares_outstanding": 21437599,
+    "shares_outstanding": 21458385,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-14"
+    "shares_outstanding_updated_at": "2026-11-25"
   },
   {
     "code": "2705",
@@ -166,9 +166,9 @@
     "name": "フライングガーデン",
     "brands": "爆弾ハンバーグ",
     "yahoo_symbol": "3317.T",
-    "shares_outstanding": 2890258,
+    "shares_outstanding": 2890229,
     "shares_outstanding_source": "auto (yfinance)",
-    "shares_outstanding_updated_at": "2026-08-14"
+    "shares_outstanding_updated_at": "2026-11-25"
   },
   {
     "code": "3097",
